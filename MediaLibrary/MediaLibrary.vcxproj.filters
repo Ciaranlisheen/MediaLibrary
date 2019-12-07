@@ -57,4 +57,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="EE402 Assignment 1.docx">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

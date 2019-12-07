@@ -163,6 +163,9 @@
     <ClCompile Include="VideoGame.cpp" />
     <ClCompile Include="VideoGameMovie.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="EE402 Assignment 1.docx" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
